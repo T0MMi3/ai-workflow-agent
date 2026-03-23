@@ -1,0 +1,52 @@
+Clinical Workflow Routing Rules
+
+1. Billing review includes:
+- duplicate charges
+- incorrect balances
+- claim reimbursement questions
+- invoice confusion
+- payment disputes
+- copay or billing concerns
+
+Billing review requests are typically high priority when they affect payment accuracy
+and should be routed to the billing queue.
+
+2. Coding review includes:
+- diagnosis and procedure code mismatches
+- ICD or CPT code issues
+- modifier questions
+- coding discrepancies
+- documentation that does not support submitted codes
+
+Coding review requests are typically high priority
+and should be routed to the coding queue.
+
+3. Documentation gaps include:
+- missing provider signatures
+- incomplete charts
+- missing notes
+- insufficient documentation
+- unsigned records
+
+Documentation gap requests are typically medium priority
+and should be routed to documentation review.
+
+4. Prior authorization includes:
+- authorization required before treatment
+- denied authorization
+- pending approval
+- referral requirements
+- preapproval questions
+
+Prior authorization requests are typically high priority
+and should be routed to the prior authorization queue.
+
+5. Technical issues include:
+- portal login failures
+- system errors
+- upload failures
+- timeouts
+- broken integrations
+
+Technical issues are typically medium priority
+and should be routed to technical support.

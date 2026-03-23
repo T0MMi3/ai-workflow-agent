@@ -23,7 +23,7 @@ def process_request(req: Request):
     )
 
     return {
-        "intent": "agent_selected",
+        "intent": workflow_name,
         "workflow": workflow_name,
         "result": result
     }
