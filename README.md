@@ -1,4 +1,4 @@
-## Clinical Workflow Engine
+## AI Workflow Engine
 
 A healthcare-focused workflow automation system that classifies clinical-style text into operational categories such as billing review, coding review, documentation gaps, prior authorization, and technical issues.
 
